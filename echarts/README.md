@@ -80,3 +80,7 @@ ECharts，一个使用 JavaScript 实现的开源可视化库，可以流畅的�
                     });
                 }
             }
+
+
+## 演示
+![yanshi](https://github.com/caicong0805/vue_echarts/blob/master/%E6%BC%94%E7%A4%BA.gif?raw=true)
