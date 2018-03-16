@@ -23,6 +23,7 @@ ECharts，一个使用 JavaScript 实现的开源可视化库，可以流畅的�
 
 
 **在<script>中**
+
                         data () {
                 return {
                 msg: 'Welcome to Your Vue.js App'
